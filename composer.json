@@ -1,5 +1,5 @@
 {
-    "name": "sylapi/timeline",
+    "name": "sylapi/nova-timeline",
     "description": "A Laravel Nova resource tool.",
     "keywords": [
         "laravel",
