@@ -1,0 +1,9 @@
+{
+    "name": "sylapi/nova-timeline",
+    "autoload": {
+        "psr-4": {
+            "Sylapi\\Timeline\\": "src/"
+        }
+    },
+    "require": {}
+}
