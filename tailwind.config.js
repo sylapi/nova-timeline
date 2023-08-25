@@ -8,5 +8,5 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-  important: '.sylapi.timeline'
+  important: '.sylapi-timeline'
 }
