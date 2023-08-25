@@ -11,7 +11,7 @@ composer require sylapi/nova-timeline
 
 ```
 Timeline::make()->relationship('histories', 'morphToMany')
-                ->comment('message_internal')
+                ->comment('message')
                 ->color('Status.color')
                 ->icon('Status.icon'),
 ```
