@@ -1,5 +1,5 @@
 <template>
-    <div class="my-component-scoped">
+    <div class="sylapi.timeline">
         <div @click="check()"> TEST </div>
         <div class="w-full max-w-3xl mx-auto">
             <!-- Vertical Timeline #2 -->
